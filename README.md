@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annnalucia !
 - 👀 I’m interested in front end development.
 - 🌱 I’m currently learning JavaScript.
-- ✍🏻 I recently drop out the fashion design world to resume my programming studies.
+- ✍🏻 I recently dropped out the fashion design world to resume my programming studies.
 - 💞️ I’m looking to collaborate with companies that want to improve the customer experience on their websites.
 - 📫 How to reach me: send me an email => analuciaantunes9@gmail.com
 
